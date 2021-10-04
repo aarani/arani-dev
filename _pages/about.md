@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I'm a 21 years old programmer.
+I'm a 21 year old programmer.
 
 I'm currently studying Computer Engineering at University of Tehran.
 
